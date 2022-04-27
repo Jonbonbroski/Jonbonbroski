@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer with 3+ years of experience in creating mobile-friendly applications and utilizing RESTful APIs.
 
-Currently operating as a Full-Stack Web Developer Instructor for Persevere, a non-profit organization with an aim of reducing recidivism raits.
+Currently operating as a Full-Stack Web Developer Instructor for Persevere, a non-profit organization with an aim of reducing recidivism rates.
 
 <br>
 <p aligh="left"></br>
