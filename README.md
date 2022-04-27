@@ -34,4 +34,4 @@ Full-Stack Web Developer with 3+ years of experience in creating mobile-friendly
 
 
 # 	📚 My Stats
-![Jonathan Wells GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonbonbroski&show_icons=true&theme=tokyonight)
+![Jonathan Wells GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonbonbroski&show_icons=true&theme=gruvbox)
