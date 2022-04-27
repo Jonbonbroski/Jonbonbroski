@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Jonathan Wells 👋
 
-<!--
-**Jonbonbroski/Jonbonbroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Full-Stack Web Developer with 3+ years of experience working 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
